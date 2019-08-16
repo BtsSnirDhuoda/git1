@@ -6,6 +6,7 @@
 
 int main()
 {
+	printf("version initiale sur la branche Master");
     return 0;
 }
 

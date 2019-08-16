@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("La version 6");
+	printf("puis la version 7");
     return 0;
 }
 

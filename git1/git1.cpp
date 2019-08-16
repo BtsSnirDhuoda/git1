@@ -6,9 +6,7 @@
 
 int main()
 {
-	printf("version 3 sur la branche Master");
-	printf("maintenant version 4");
-	printf("enfin la version 5");
+	printf("La version 6");
     return 0;
 }
 

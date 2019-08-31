@@ -12,3 +12,8 @@ int main()
     return 0;
 }
 
+void fonction ()
+{
+	int i=2;
+}
+

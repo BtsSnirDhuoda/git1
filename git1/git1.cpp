@@ -15,5 +15,6 @@ int main()
 void fonction ()
 {
 	int i=2;
+
 }
 

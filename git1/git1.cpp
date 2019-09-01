@@ -9,11 +9,11 @@ int main()
 	printf("puis la version 7");
 	// c'est une bonne version !
 	//mais elle est encore mieux maintenant.
-	fonction();
+	fonction2();
     return 0;
 }
 
-void fonction ()
+void fonction2()
 {
 	int i=2;
 	i = i + 2;
